@@ -1,0 +1,7 @@
+blog: xiaorui.cc
+best_authors: ["fengyun","lee","park"]
+desc:
+  counter: 521
+  plist: [3, 4]
+remote_url: ["127.0.0.1:514", "10.103.30.28:514"]
+tag: test
